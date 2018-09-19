@@ -8,4 +8,5 @@ the new changes for git push for another branch.
 
 the new changes for git push for another branch.
 Adding fourth video tutorial
-
+In the bug_fix branch 
+fixing the bugs.
