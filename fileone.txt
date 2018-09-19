@@ -16,4 +16,6 @@ Adding the new features here in the feature branch.
 
 In the bug_fix branch 
 fixing the bugs.
+11:37 modifying the files
 
+11:40 Adding in master
