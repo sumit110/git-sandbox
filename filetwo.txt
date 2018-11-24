@@ -12,4 +12,8 @@ line added in feature one branch
 
 going to use rebase command
 
-Last work to use fast forward merge
+Last work to use fast forward merge 
+
+Working on the fourth assignment to see branching feature.
+:wq
+:
