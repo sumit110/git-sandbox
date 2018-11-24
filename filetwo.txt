@@ -1,1 +1,7 @@
+
 Creating conflict from another checkout.
+
+Filetwo.txt
+
+Modifying it to create merging conflicts.
+
