@@ -1,3 +1,7 @@
+
+Creating conflict from another checkout.
+
 Filetwo.txt
 To check difference between git fetch, merge and git pukll
 Modifying it to create merging conflicts.
+
