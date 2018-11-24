@@ -20,4 +20,4 @@ Working on the fourth assignment to see branching feature.
 work on different type pf merging.
 this is going to be fast forward.
 
-
+This is 3 way merging.
