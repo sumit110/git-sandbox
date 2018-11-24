@@ -11,3 +11,5 @@ This line is going to be stashed
 line added in feature one branch
 
 going to use rebase command
+
+Last work to use fast forward merge
