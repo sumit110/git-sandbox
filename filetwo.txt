@@ -8,4 +8,4 @@ Modifying it to create merging conflicts.
 to stash changes doing modification.
 
 This line is going to be stashed
-
+line added in feature one branch
